@@ -1,0 +1,1 @@
+//3)print the numbers in reverse

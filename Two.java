@@ -1,0 +1,1 @@
+//2)print numbers from 1 to 10

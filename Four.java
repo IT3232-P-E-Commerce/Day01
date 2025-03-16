@@ -1,0 +1,1 @@
+//4)print the odd numbers between 1 to 20
